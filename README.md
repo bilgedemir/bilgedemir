@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilgedemir
 -      I'm studying computer engineering at Istanbul Kultur University.
-- 👀 I’m interested in writing code..
+- 👀 I’m interested in front end development and data science..
 - 🌱 I’m currently learning C and Python languages...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact Me
