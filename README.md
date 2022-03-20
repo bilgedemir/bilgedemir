@@ -2,8 +2,9 @@
 - 🏫 I'm studying computer engineering at Istanbul Kultur University.
 - 👀 I've recently become interested in front end web development...
 - 🌱 I’m currently learning C and Python languages...
-- 📫 How to find me: 
+- 📫 How to find me: bilgedemir1560@gmail.com
   - 🖥️: [LinkedIn](https://www.linkedin.com/in/bilge-demir/)
+  
   - :bulb: [Medium ](https://medium.com/@bilgedemirr)
   
   
