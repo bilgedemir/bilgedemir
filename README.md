@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @bilgedemir
 -      I'm studying computer engineering at Istanbul Kultur University.
-- 👀 I’m interested in front end development and data science..
+- 👀 I've recently become interested in front end web development...
 - 🌱 I’m currently learning C and Python languages...
-- 📫 Contact Me 
+- 📫 How to find me: 
+  - :bulb: [Medium ](https://medium.com/@bilgedemirr)
+  - 🖥️: [LinkedIn](https://www.linkedin.com/in/bilge-demir/)
+  
+  🚀I'm in Front-End Web Development Bootcamp Prep Training with KODLUYORUZ
 -   
 
 <!---
