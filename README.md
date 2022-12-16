@@ -1,14 +1,14 @@
 -                                          👋 Hi, I’m Bilge
 - 🏫 I'm studying computer engineering at Istanbul Kultur University.
-- 👀 I've recently become interested in front end web development...
-- 🌱 I’m currently learning C and Python languages...
-- 📫 How to find me: bilgedemir1560@gmail.com
+- 👀 I am working with object oriented program ...
+- 🌱 I’m currently learning C++ and Python languages...
+- 📫 How to find me:
   - 🖥️: [LinkedIn](https://www.linkedin.com/in/bilge-demir/)
   
   - :bulb: [Medium ](https://medium.com/@bilgedemirr)
   
   
-  🚀I'm in Front-End Web Development Bootcamp Prep Training with KODLUYORUZ
+  🚀
   
   <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilgedemir)](https://github.com/bilgedemir/github-readme-stats)--->
 
